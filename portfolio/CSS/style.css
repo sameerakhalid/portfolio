@@ -1,0 +1,39 @@
+body{
+    background-image: url("../images/o.jpg");
+    background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1000px;
+  font-family: 'Dancing Script', cursive;
+}
+h1,p{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+    text-emphasis: none;
+    margin: 0;
+    padding: 0;
+ 
+}
+.front{
+    background-attachment: fixed;
+    background-image:url("../images/download.jpg");
+    background-repeat: no-repeat;
+width: 180px;
+height: 180px;
+background-position: center;
+margin-top: 50px;
+margin-left: 600px;
+ text-align: start;
+}
+#info{
+    background: linear-gradient(rgba(248, 244, 9, 0.459),rgba(238, 99, 34, 0.801));
+ background-size: cover;
+
+margin: 0;
+padding: 0;
+    width: 59rem;
+    margin-left: 200px;
+    text-align: center;
+   
+}
+
